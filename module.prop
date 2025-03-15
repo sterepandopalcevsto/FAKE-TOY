@@ -1,7 +1,0 @@
-id=battery-optimizer
-name=Battery Optimizer
-version=1.0
-versionCode=10
-author=claude ai
-description=Magisk module that optimizes battery life by managing power-hungry processes and tweaking system parameters
-updateJson=https://raw.githubusercontent.com/claude ai/battery-optimizer/master/update.json
